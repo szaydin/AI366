@@ -1,0 +1,3 @@
+alpha= 0.1
+epsilon= 0
+avgReturnSum= -49527.24
